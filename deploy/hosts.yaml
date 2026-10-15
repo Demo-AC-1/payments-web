@@ -1,0 +1,3 @@
+hosts:
+  - payments-web01.acme.example
+image: registry.acme.example/payments/payments-web
