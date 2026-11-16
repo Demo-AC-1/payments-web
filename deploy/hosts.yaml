@@ -1,3 +1,4 @@
+# Production deployment targets
 hosts:
-  - payments-web01.acme.example
+  - payments-web-001.acme.example
 image: registry.acme.example/payments/payments-web
